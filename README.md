@@ -1,7 +1,8 @@
 # Tutorial-Akun-Github
+```
 Nama : Vinna Jardyagustin
 NIM : 19.01.013.064
-
+```
 Berikut ini adalah cara pembuatan akun github :
 1. Langkah pertama, buka link https://github.com di broser web yang ada di lebtop,PC,atau smartphone anda. Lalu klik "Sign Up"
 ![image](https://user-images.githubusercontent.com/105411972/194687537-5fa295a0-c03d-4a1c-b226-750ed95ccafc.png)
